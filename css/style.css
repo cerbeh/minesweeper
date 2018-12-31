@@ -1,0 +1,27 @@
+h1 {
+  background-color: chartreuse;
+}
+
+div button {
+  background-color: papayawhip;
+  height: 50px;
+  width: 50px;
+}
+.marked {
+  background-color: chartreuse;
+}
+
+.empty {
+  background-color: goldenRod;
+}
+
+body {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.grid-style {
+  border: .2rem solid black;
+}
